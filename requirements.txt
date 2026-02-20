@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+sentence-transformers
+pypdf
+python-docx
+python-pptx
+docx2txt
+unstructured
+pandas
+sqlite-utils
+lxml
